@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/solana-songs-list/static/css/main.28ff374a.chunk.css",
+    "main.js": "/solana-songs-list/static/js/main.4a44f509.chunk.js",
+    "main.js.map": "/solana-songs-list/static/js/main.4a44f509.chunk.js.map",
+    "runtime-main.js": "/solana-songs-list/static/js/runtime-main.1d89ea73.js",
+    "runtime-main.js.map": "/solana-songs-list/static/js/runtime-main.1d89ea73.js.map",
+    "static/js/2.f8cc6066.chunk.js": "/solana-songs-list/static/js/2.f8cc6066.chunk.js",
+    "static/js/2.f8cc6066.chunk.js.map": "/solana-songs-list/static/js/2.f8cc6066.chunk.js.map",
+    "index.html": "/solana-songs-list/index.html",
+    "static/css/main.28ff374a.chunk.css.map": "/solana-songs-list/static/css/main.28ff374a.chunk.css.map",
+    "static/js/2.f8cc6066.chunk.js.LICENSE.txt": "/solana-songs-list/static/js/2.f8cc6066.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/solana-songs-list/static/media/twitter-logo.d89d9a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d89ea73.js",
+    "static/js/2.f8cc6066.chunk.js",
+    "static/css/main.28ff374a.chunk.css",
+    "static/js/main.4a44f509.chunk.js"
+  ]
+}
